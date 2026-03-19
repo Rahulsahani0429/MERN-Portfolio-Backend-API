@@ -1,0 +1,25 @@
+# dependencies
+node_modules/
+
+# env files
+.env
+
+# uploads (images/files)
+uploads/
+
+# logs
+logs/
+*.log
+npm-debug.log*
+
+# temp files
+tmp/
+temp/
+
+# system files
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/

@@ -1,0 +1,172 @@
+{
+    "profiles": [
+        {
+            "name": "Rahul Kumar Sahani",
+            "title": "MERN Stack Developer | Prompt Engineer",
+            "bio": "Focused on building scalable MERN stack applications, designing efficient backend APIs, and leveraging AI with prompt engineering to develop intelligent digital solutions.",
+            "aboutMe": "I am a passionate MERN Stack Developer and Prompt Engineer with experience building responsive and scalable web applications. I specialize in developing full-stack solutions using MongoDB, Express.js, React.js, and Node.js, along with working knowledge of MySQL for relational database management.\n\nDuring my Full Stack Web Development Internship at CodeSoft, I worked on building responsive frontend modules and developing backend APIs using modern JavaScript technologies. This experience helped me strengthen my skills in creating efficient and user-friendly applications.\n\nI have also completed coursework from MongoDB University, gaining hands-on experience in database management, data modeling, and backend optimization.\n\nI enjoy solving real-world problems, learning new technologies, and building modern applications that deliver scalable and meaningful user experiences.",
+            "email": "rahulsahani3348@gmail.com",
+            "location": "India",
+            "socials": {
+                "github": "https://github.com/Rahulsahani0429",
+                "linkedin": "https://www.linkedin.com/in/rahul-kumar-sahani-4729b274",
+                "twitter": ""
+            }
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML",
+            "category": "Frontend",
+            "icon": "html"
+        },
+        {
+            "name": "CSS",
+            "category": "Frontend",
+            "icon": "css"
+        },
+        {
+            "name": "JavaScript",
+            "category": "Frontend",
+            "icon": "javascript"
+        },
+        {
+            "name": "React.js",
+            "category": "Frontend",
+            "icon": "react"
+        },
+        {
+            "name": "Node.js",
+            "category": "Backend",
+            "icon": "nodejs"
+        },
+        {
+            "name": "Express.js",
+            "category": "Backend",
+            "icon": "express"
+        },
+        {
+            "name": "MongoDB",
+            "category": "Backend",
+            "icon": "mongodb"
+        },
+        {
+            "name": "MySQL",
+            "category": "Backend",
+            "icon": "mysql"
+        },
+        {
+            "name": "Java",
+            "category": "Languages",
+            "icon": "java"
+        },
+        {
+            "name": "C",
+            "category": "Languages",
+            "icon": "c"
+        },
+        {
+            "name": "Git",
+            "category": "Tools",
+            "icon": "git"
+        },
+        {
+            "name": "GitHub",
+            "category": "Tools",
+            "icon": "github"
+        },
+        {
+            "name": "Postman",
+            "category": "Tools",
+            "icon": "postman"
+        },
+        {
+            "name": "VS Code",
+            "category": "Tools",
+            "icon": "vscode"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Doctor Appointment Booking System",
+            "description": "A MERN stack doctor appointment booking system with authentication and appointment scheduling features.",
+            "image": "/projects/job.jpg",
+            "techStack": [
+                "React",
+                "Node.js",
+                "Express",
+                "MongoDB"
+            ],
+            "githubLink": "https://github.com/Rahulsahani0429",
+            "liveDemo": "youtub.com",
+            "featured": true
+        },
+        {
+            "title": "E-commerce Website",
+            "description": "A full-stack MERN e-commerce application with authentication, product browsing, cart system, order management, admin dashboard, and secure payment processing.",
+            "image": "/projects/eco.jpg",
+            "techStack": [
+                "React",
+                "Node.js",
+                "Express",
+                "MongoDB",
+                "JWT"
+            ],
+            "githubLink": "https://github.com/Rahulsahani0429",
+            "liveDemo": "https://chatgpt.com/",
+            "featured": true
+        },
+        {
+            "title": "Portfolio Website",
+            "description": "A modern responsive portfolio website to showcase skills, projects, and experience.",
+            "image": "/projects/port.jpg",
+            "techStack": [
+                "React",
+                "CSS",
+                "JavaScript"
+            ],
+            "githubLink": "https://github.com/Rahulsahani0429",
+            "liveDemo": "",
+            "featured": false
+        }
+    ],
+    "experiences": [
+        {
+            "role": "Full Stack Web Developer Intern",
+            "company": "CodeSoft",
+            "duration": "Apr 2024 - Oct 2024",
+            "description": "Worked on front-end development using HTML, CSS, JavaScript, and React along with backend development using Node.js and Express. Built responsive applications and integrated REST APIs.",
+            "isInternship": true
+        },
+        {
+            "role": "Full Stack Web Developer",
+            "company": "MongoDB University",
+            "duration": "Aug 2024 - Sep 2024",
+            "description": "Completed MongoDB training covering data modeling, aggregation pipelines, indexing, and database performance optimization.",
+            "isInternship": false
+        },
+        {
+            "role": "Oracle Foundation Associate",
+            "company": "Oracle Cloud",
+            "duration": "Aug 2024 - Sep 2024",
+            "description": "Learned cloud computing fundamentals including IaaS, PaaS, SaaS models and core cloud architecture concepts.",
+            "isInternship": false
+        }
+    ],
+    "educations": [
+        {
+            "degree": "B.Tech Computer Science and Engineering",
+            "institution": "Dhanalakshmi Srinivasan College of Engineering and Technology",
+            "duration": "2021 - 2025",
+            "score": "CGPA: 7.5"
+        }
+    ],
+    "contactmessages": [
+        {
+            "name": "Test User",
+            "email": "test@example.com",
+            "message": "Hello Rahul, I saw your portfolio and would like to connect with you regarding a development opportunity.",
+            "status": "new"
+        }
+    ]
+}
