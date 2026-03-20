@@ -6,6 +6,7 @@ export const getProfile = async (req, res, next) => {
         // console.log("dsjlsad", profile);
         res.json(profile);
     } catch (error) {
-        next(error);
+        console.error("API Error [Profile]:", error);
+        res.status(500).json({ message: "Server error", error: error.message });
     }
 };

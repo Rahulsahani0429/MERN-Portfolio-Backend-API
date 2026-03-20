@@ -5,6 +5,7 @@ export const getSkills = async (req, res, next) => {
         const skills = await Skill.find();
         res.json(skills);
     } catch (error) {
-        next(error);
+        console.error("API Error [Skills]:", error);
+        res.status(500).json({ message: "Server error", error: error.message });
     }
 };

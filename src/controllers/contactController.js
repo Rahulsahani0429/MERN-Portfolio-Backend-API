@@ -49,6 +49,7 @@ export const sendMessage = async (req, res, next) => {
         }
 
     } catch (error) {
-        next(error);
+        console.error("API Error [Contact]:", error);
+        res.status(500).json({ message: "Server error", error: error.message });
     }
 };
