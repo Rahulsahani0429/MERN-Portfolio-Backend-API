@@ -123,10 +123,11 @@
             "techStack": [
                 "React",
                 "CSS",
+                "HTML",
                 "JavaScript"
             ],
             "githubLink": "https://github.com/Rahulsahani0429",
-            "liveDemo": "",
+            "liveDemo": "https://modern-portfolio-frontend-react-js-navy.vercel.app/",
             "featured": false
         }
     ],
