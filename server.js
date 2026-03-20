@@ -31,6 +31,9 @@ import skillRoutes from './src/routes/skillRoutes.js';
 import experienceRoutes from './src/routes/experienceRoutes.js';
 import educationRoutes from './src/routes/educationRoutes.js';
 import contactRoutes from './src/routes/contactRoutes.js';
+app.get("/", (req, res) => {
+    res.send("Backend API is running 🚀");
+});
 
 app.use('/api/profile', profileRoutes);
 app.use('/api/projects', projectRoutes);
