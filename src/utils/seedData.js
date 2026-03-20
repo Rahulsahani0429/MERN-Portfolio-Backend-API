@@ -26,7 +26,7 @@ const seedData = async () => {
             title: 'MERN Stack Developer | Prompt Engineer',
             bio: 'Focused on building scalable MERN stack applications, designing efficient backend APIs, and leveraging AI with prompt engineering to develop intelligent digital solutions.',
             aboutMe: 'I am a passionate MERN Stack Developer and Prompt Engineer with experience building responsive and scalable web applications. I specialize in developing full-stack solutions using MongoDB, Express.js, React.js, and Node.js, along with working knowledge of MySQL for relational database management.\n\nDuring my Full Stack Web Development Internship at CodeSoft, I worked on building responsive frontend modules and developing backend APIs using modern JavaScript technologies. This experience helped me strengthen my skills in creating efficient and user-friendly applications.\n\nI have also completed coursework from MongoDB University, gaining hands-on experience in database management, data modeling, and backend optimization.\n\nI enjoy solving real-world problems, learning new technologies, and building modern applications that deliver scalable and meaningful user experiences.',
-            email: 'rahulsahani3348@gmail.com',
+            email: 'rahulcse3212@gmail.com',
             location: 'India',
             socials: {
                 github: 'https://github.com/Rahulsahani0429',
