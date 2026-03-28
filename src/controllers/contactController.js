@@ -30,7 +30,7 @@ export const sendMessage = async (req, res, next) => {
 
             const mailOptions = {
                 from: process.env.EMAIL_USER,
-                to: 'rahulcse3212@gmail.com',
+                to: 'rahulsahani33438@gmail.com',
                 replyTo: email,
                 subject: `New Portfolio Message from ${name}`,
                 text: `You have received a new message from your portfolio website.\n\nName: ${name}\nEmail: ${email}\n\nMessage:\n${message}`
